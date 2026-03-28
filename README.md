@@ -1,4 +1,4 @@
-<div align="center">
+7<div align="center">
 
 ![banner](https://i.pinimg.com/736x/d1/16/05/d116058043ec7f9086b70beffdd72e0c.jpg)
 
@@ -14,8 +14,6 @@
 ███████╗███████╗██║  ██║██║ ╚████║╚██████╔╝██║  ██║███████╗██║ ╚████║╚██████╔╝
 ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
 ```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer;Android+App+Developer;Java+%26+Kotlin+Craftsman;Spring+Boot+%7C+Jetpack+Compose+%7C+SQL)](https://git.io/typing-svg)
 
 </div>
 
