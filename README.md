@@ -1,4 +1,4 @@
-7<div align="center">
+<div align="center">
 
 ![banner](https://i.pinimg.com/736x/d1/16/05/d116058043ec7f9086b70beffdd72e0c.jpg)
 
