@@ -1,21 +1,21 @@
 <div align="center">
 
-![banner](https://i.pinimg.com/1200x/0f/18/08/0f1808fe503f323187b8433f43dbb046.jpg)
+![banner](https://i.pinimg.com/736x/d1/16/05/d116058043ec7f9086b70beffdd72e0c.jpg)
 
 </div>
 
 <div align="center">
 
 ```
-██╗ ███████╗ █████╗ ███╗ ██╗ ██████╗ ██╗ ██╗███████╗███╗ ██╗ ██████╗
-██║ ██╔════╝██╔══██╗████╗ ██║██╔════╝ ██║ ██║██╔════╝████╗ ██║██╔════╝
-██║ █████╗ ███████║██╔██╗ ██║██║ ███╗███████║█████╗ ██╔██╗ ██║██║ ███╗
-██║ ██╔══╝ ██╔══██║██║╚██╗██║██║ ██║██╔══██║██╔══╝ ██║╚██╗██║██║ ██║
-███████╗███████╗██║ ██║██║ ╚████║╚██████╔╝██║ ██║███████╗██║ ╚████║╚██████╔╝
-╚══════╝╚══════╝╚═╝ ╚═╝╚═╝ ╚═══╝ ╚═════╝ ╚═╝ ╚═╝╚══════╝╚═╝ ╚═══╝ ╚═════╝
+██╗     ███████╗ █████╗ ███╗   ██╗ ██████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗
+██║     ██╔════╝██╔══██╗████╗  ██║██╔════╝ ██║  ██║██╔════╝████╗  ██║██╔════╝
+██║     █████╗  ███████║██╔██╗ ██║██║  ███╗███████║█████╗  ██╔██╗ ██║██║  ███╗
+██║     ██╔══╝  ██╔══██║██║╚██╗██║██║   ██║██╔══██║██╔══╝  ██║╚██╗██║██║   ██║
+███████╗███████╗██║  ██║██║ ╚████║╚██████╔╝██║  ██║███████╗██║ ╚████║╚██████╔╝
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Backend+Developer;Android+App+Developer;Java+%26+Kotlin+Craftsman;Spring+Boot+%7C+Jetpack+Compose+%7C+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer;Android+App+Developer;Java+%26+Kotlin+Craftsman;Spring+Boot+%7C+Jetpack+Compose+%7C+SQL)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,12 +25,12 @@
 
 ```kotlin
 object Leangheng {
- val role = "Aspiring Software Developer"
- val focus = listOf("Backend Development", "Android App Development")
- val languages = listOf("Java", "Kotlin", "C++")
- val frameworks = listOf("Spring Boot", "Jetpack Compose")
- val database = listOf("PostgreSQL", "SQL")
- val currently = "Building cool things, one commit at a time"
+    val role       = "Aspiring Software Developer"
+    val focus      = listOf("Backend Development", "Android App Development")
+    val languages  = listOf("Java", "Kotlin", "C++")
+    val frameworks = listOf("Spring Boot", "Jetpack Compose")
+    val database   = listOf("PostgreSQL", "SQL")
+    val currently  = "Building cool things, one commit at a time"
 }
 ```
 
@@ -65,11 +65,11 @@ object Leangheng {
 
 <div align="center">
 
-![](https://github-readme-stats-salesp07.vercel.app/api?username=Leangheng-huge&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats-salesp07.vercel.app/api?username=Leangheng-huge&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://streak-stats.demolab.com/?user=Leangheng-huge&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Leangheng-huge&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Leangheng-huge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Leangheng-huge&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -79,7 +79,7 @@ object Leangheng {
 
 <div align="center">
 
-![](https://github-trophies.vercel.app/?username=Leangheng-huge&theme=darkhub&no-frame=false&margin-w=6&column=7)
+![](https://github-trophies.vercel.app/?username=Leangheng-huge&theme=tokyonight&no-frame=false&margin-w=6&column=7)
 
 </div>
 
@@ -89,7 +89,7 @@ object Leangheng {
 
 <div align="center">
 
-[![Leangheng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leangheng-huge&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Leangheng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leangheng-huge&bg_color=1a1b27&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -97,10 +97,10 @@ object Leangheng {
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Leangheng-huge&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Leangheng-huge&icon=2&color=6)](https://visitcount.itsvg.in)
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:1a1a2e,100:0d1117&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4C1D95,100:7C3AED&height=120&section=footer)
