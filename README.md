@@ -1,52 +1,58 @@
 <div align="center">
 
+![banner](https://i.pinimg.com/1200x/0f/18/08/0f1808fe503f323187b8433f43dbb046.jpg)
+
+</div>
+
+<div align="center">
+
 ```
-██╗     ███████╗ █████╗ ███╗   ██╗ ██████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗
-██║     ██╔════╝██╔══██╗████╗  ██║██╔════╝ ██║  ██║██╔════╝████╗  ██║██╔════╝
-██║     █████╗  ███████║██╔██╗ ██║██║  ███╗███████║█████╗  ██╔██╗ ██║██║  ███╗
-██║     ██╔══╝  ██╔══██║██║╚██╗██║██║   ██║██╔══██║██╔══╝  ██║╚██╗██║██║   ██║
-███████╗███████╗██║  ██║██║ ╚████║╚██████╔╝██║  ██║███████╗██║ ╚████║╚██████╔╝
-╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
+██╗ ███████╗ █████╗ ███╗ ██╗ ██████╗ ██╗ ██╗███████╗███╗ ██╗ ██████╗
+██║ ██╔════╝██╔══██╗████╗ ██║██╔════╝ ██║ ██║██╔════╝████╗ ██║██╔════╝
+██║ █████╗ ███████║██╔██╗ ██║██║ ███╗███████║█████╗ ██╔██╗ ██║██║ ███╗
+██║ ██╔══╝ ██╔══██║██║╚██╗██║██║ ██║██╔══██║██╔══╝ ██║╚██╗██║██║ ██║
+███████╗███████╗██║ ██║██║ ╚████║╚██████╔╝██║ ██║███████╗██║ ╚████║╚██████╔╝
+╚══════╝╚══════╝╚═╝ ╚═╝╚═╝ ╚═══╝ ╚═════╝ ╚═╝ ╚═╝╚══════╝╚═╝ ╚═══╝ ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%96%A5%EF%B8%8F;Android+App+Developer+%F0%9F%93%B1;Java+%26+Kotlin+Craftsman+%E2%9A%99%EF%B8%8F;Spring+Boot+%7C+Jetpack+Compose+%7C+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Backend+Developer;Android+App+Developer;Java+%26+Kotlin+Craftsman;Spring+Boot+%7C+Jetpack+Compose+%7C+SQL)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```kotlin
 object Leangheng {
-    val role       = "Aspiring Software Developer"
-    val focus      = listOf("Backend Development", "Android App Development")
-    val languages  = listOf("Java", "Kotlin", "C++")
-    val frameworks = listOf("Spring Boot", "Jetpack Compose")
-    val database   = listOf("PostgreSQL", "SQL")
-    val currently  = "Building cool things, one commit at a time 🚀"
+ val role = "Aspiring Software Developer"
+ val focus = listOf("Backend Development", "Android App Development")
+ val languages = listOf("Java", "Kotlin", "C++")
+ val frameworks = listOf("Spring Boot", "Jetpack Compose")
+ val database = listOf("PostgreSQL", "SQL")
+ val currently = "Building cool things, one commit at a time"
 }
 ```
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-#### ⚙️ Languages
+#### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🚀 Frameworks & Platforms
+#### Frameworks & Platforms
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### 🗄️ Database & Tools
+#### Database & Tools
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -55,7 +61,7 @@ object Leangheng {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -69,7 +75,7 @@ object Leangheng {
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -79,7 +85,7 @@ object Leangheng {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -96,3 +102,5 @@ object Leangheng {
 *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:1a1a2e,100:0d1117&height=120&section=footer)
